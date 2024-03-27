@@ -5,7 +5,7 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "version": "1.0.5",
+    "version": "20.4.6",
     "type": "magento2-module",
     "support": {
         "documentation": "https://beecomers.atlassian.net/wiki/spaces/BEEW/pages/626589699/Beecom+Matrix+Rate"
@@ -17,9 +17,10 @@
             "homepage": "http://www.beecom.io"
         }
     ],
-    "require": {
-        "shippingapps/magento-2-module-core": "*",
-        "shippingapps/magento2-owlcarousel": "^1.0"
+"require": {
+    "shippingapps/module-pocztexrate": "20.4.6"
+}
+
     },
     "autoload": {
         "files": [
