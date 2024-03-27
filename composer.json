@@ -18,6 +18,7 @@
         }
     ],
 "require": {
+    "minimum-stability": "dev",
     "shippingapps/module-pocztexrate": "20.4.6"
     },
     "autoload": {
