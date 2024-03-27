@@ -19,8 +19,6 @@
     ],
 "require": {
     "shippingapps/module-pocztexrate": "20.4.6"
-}
-
     },
     "autoload": {
         "files": [
